@@ -25,7 +25,8 @@ function Skill(s, i) {
           role="progressbar"
           aria-valuenow={s.score}
           aria-valuemin="0"
-          aria-valuemax={maxSkill}></div>
+          aria-valuemax={maxSkill}>
+        </div>
       </div>
     </div>
 

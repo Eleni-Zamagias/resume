@@ -29,4 +29,5 @@ function School(s, i) {
   )
 }
 
+
 export default Education;

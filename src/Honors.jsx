@@ -28,4 +28,5 @@ function Hons(h, i) {
     </div>
   )
 }
+
 export default Honors;

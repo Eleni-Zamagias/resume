@@ -28,4 +28,5 @@ function Confs(c, i) {
     </div>
   )
 }
+
 export default Conferences;

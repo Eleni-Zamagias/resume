@@ -32,4 +32,6 @@ function Job(j, i) {
     </div>
   )
 }
+
+
 export default Work;

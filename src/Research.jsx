@@ -27,9 +27,11 @@ function Exp(e, i) {
       </h6>
       <div className="text-muted"><a href={e.link}>{e.org}, {e.where}</a></div>
       <div className="row mb-2">
-        <div className="col-12 col-md-10">{e.desc}</div>
+          <div className="col-12 col-md-10">{e.desc}</div>
       </div>
     </div>
   )
 }
+
+
 export default Research;

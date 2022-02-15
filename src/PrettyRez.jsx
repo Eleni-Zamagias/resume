@@ -22,6 +22,7 @@ import Conferences from "./Conferences.jsx";
 import Publications from "./Publications.jsx";
 import {Bio, Contact, Papers, EnterInfo, ProfileImg} from "./Profile.jsx";
 
+
 function Rez() {
   return (
     <div className="Rez container bg-light m-3 p-3 justify-content-center ">
@@ -30,10 +31,10 @@ function Rez() {
           <Header />
         </div>
         <div className="MainLeftCol col-12 col-md-3">
-        <ProfileImg />
-        <Skills />
-        <Papers />
-        <EnterInfo />
+          <ProfileImg />
+          <Skills />
+          <Papers />
+          <EnterInfo />
         </div>
 
         <div className="MainSideCol col-md-9 flex-column">
@@ -60,9 +61,6 @@ function Header(props) {
     </header>
   );
 }
-
-
-
 
 
 
