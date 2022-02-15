@@ -6,8 +6,8 @@ function Education(props) {
   let schools = schoolData.map(School);
 
   return (
-    <section className="mt-3">
-      <h5>Education</h5>
+    <section className="mt-3 p-1">
+      <h5>EDUCATION</h5>
       {schools}
     </section>
   );

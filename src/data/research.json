@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Honors College Senior Thesis",
+    "org": "Honors College, Adelphi University",
+    "link": "https://www.adelphi.edu/honors-college/",
+    "start": 2020,
+    "end": 2021,
+    "where": "New York",
+    "desc": "Conducted research  by examining publications to design a data science project. Analyzed the response of higher education institutions using data visualizations."
+  },
+  {
+    "title": "Undergraduate Researcher",
+    "org": "Department of Mathematics and Computer Science, Adelphi University",
+    "link": "https://www.adelphi.edu/program/undergraduate/mathematics/",
+    "start": 2020,
+    "end": 2021,
+    "where": "New York",
+    "desc": "Collaborated graph theory research with professor and peers. Examined winning strategies for families of graphs used during graph burning games."
+  },
+  {
+    "title": "Research Fellow",
+    "org": "Adelphi University",
+    "link": "https://www.adelphi.edu",
+    "start": 2019,
+    "end": 2021,
+    "where": "New York",
+    "desc": "Assisted in advancing research on the Armitage and Doll model of carcinogenesis, and presented the findings at multiple mathematics research conferences."
+  }
+]

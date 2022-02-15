@@ -1,38 +1,47 @@
 [
   {
-    "title": "Associate Professor of Educational Technology",
+    "title": "Graduate Assistant",
+    "org": "Fragrance Net and Adelphi University",
+    "link": "",
+    "start": 2021,
+    "end": -1,
+    "where": "New York",
+    "desc": "Produce Python code and visualizations with team to analyze company's price elasticity. Collaborate with professors and company representatives through weekly meetings."
+  },
+  {
+    "title": "Mathematics Specialist",
+    "org": "Adelphi University Learning Resource Program",
+    "link": "https://www.adelphi.edu/learning-resource/",
+    "start": 2019,
+    "end": -1,
+    "where": "New York",
+    "desc": "Apply positive reinforcement strategies during tutoring sessions with students who have learning disabilities in order to build both their math skills and confidence."
+  },
+  {
+    "title": "Private Mathematics Tutor",
+    "org": "Self-employed",
+    "link": "",
+    "start": 2018,
+    "end": -1,
+    "where": "New York",
+    "desc": "Collaborated with students to complete and improve areas of weakness. Tutor high school and college students in Algebra, Geometry, Pre-Calculus, and Statistics course materials."
+  },
+  {
+    "title": "Assistant Learning Specialist",
+    "org": "Adelphi University Learning Resource Program",
+    "link": "https://www.adelphi.edu/learning-resource/",
+    "start": 2021,
+    "end": 2021,
+    "where": "New York",
+    "desc": "Met weekly with students with learning disabilities to ensure they were completing all their coursework and submitting assignments on time. Additionally, maintained an updated record documenting all meetings and steps for each student."
+  },
+  {
+    "title": "Teaching Assistant",
     "org": "Adelphi University",
     "link": "https://www.adelphi.edu",
-    "start": 2010,
-    "end": -1,
+    "start": 2019,
+    "end": 2021,
     "where": "New York",
-    "desc": "Founder of the graduate program in edcuational technology at Adelphi University, where I teach courses in learning sciences, computer science, digital media studies, and multimedia design. Current research projects look at the politics of digital artifcats, especially learning technologies."
-  },
-  {
-    "title": "Graduate Research Assistant",
-    "org": "Columbia University",
-    "link": "https://www.columbia.edu",
-    "start": 2008,
-    "end": 2010,
-    "where": "New York",
-    "desc": "Designed research measures, gathered field data, employed quantiative and qualitative approaches to analyzes data, and provided design and technical support to faculty-led research projects."
-  },
-  {
-    "title": "Freelance Software Engineer",
-    "org": "Self",
-    "link": "https://matt.curinga.com",
-    "start": 2008,
-    "end": -1,
-    "where": "Anywhere",
-    "desc": "Software engineer with over 10 years of industry experience, specializes in working as lead developer/architect and technical team leader for start-ups and non-profits. Current interests include developing innovative software for learning, including just-in-time learning, p2p systems, and augmented reality."
-  },
-  {
-    "title": "Lead Software Engineer",
-    "org": "IAG Research/Nielsen Media",
-    "link": "https://matt.curinga.com",
-    "start": 2004,
-    "end": 2008,
-    "where": "New York",
-    "desc": "Software design for 15+ member engineering team. Helped IAG Research grow from early stage start-up to acquisition by Nielsen Media. Lead engineer for data science collection and analysis products for the media industry."
+    "desc": "Graded assignments and recorded scores in an organized manner. Scheduled and maintained regular office hours to meet with students."
   }
 ]

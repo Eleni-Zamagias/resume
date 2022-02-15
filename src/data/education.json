@@ -1,20 +1,14 @@
 [
   {
-    "school": "Columbia University",
-    "location": "New York City",
-    "degree": "EdD Instructional Technology & Media",
-    "year": 2010
+    "school": "Adelphi University",
+    "location": "Garden City",
+    "degree": "MS Applied Mathematics and Data Science",
+    "year": 2022
   },
   {
-    "school": "Columbia University",
-    "location": "New York City",
-    "degree": "MA Computing & Education",
-    "year": 1999
-  },
-  {
-    "school": "Colby College",
-    "location": "Waterville, Maine",
-    "degree": "BA English",
-    "year": 1993
+    "school": "Adelphi University Honors College",
+    "location": "Garden City",
+    "degree": "BS Mathematics",
+    "year": 2021
   }
 ]

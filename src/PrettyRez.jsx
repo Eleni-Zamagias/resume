@@ -16,22 +16,33 @@ import React from 'react';
 import Experience from "./Work.jsx";
 import Education from "./Schools.jsx";
 import Skills from "./Skills.jsx";
-import {Bio, Contact, ProfileImg} from "./Profile.jsx";
+import Research from "./Research.jsx";
+import Honors from "./Honors.jsx";
+import Conferences from "./Conferences.jsx";
+import Publications from "./Publications.jsx";
+import {Bio, Contact, Papers, EnterInfo, ProfileImg} from "./Profile.jsx";
 
 function Rez() {
   return (
-    <div className="Rez container m-3 p-3">
+    <div className="Rez container bg-light m-3 p-3 justify-content-center ">
       <div className="row">
-        <div className="MainLeftCol col-12 col-md-8">
+        <div className="header">
           <Header />
-          <Experience />
-          <Education />
+        </div>
+        <div className="MainLeftCol col-12 col-md-3">
+        <ProfileImg />
+        <Skills />
+        <Papers />
+        <EnterInfo />
         </div>
 
-        <div className="MainSideCol col-md-4 flex-column">
-          <ProfileImg />
-          <Contact />
-          <Skills />
+        <div className="MainSideCol col-md-9 flex-column">
+          <Education />
+          <Research />
+          <Experience />
+          <Publications />
+          <Conferences />
+          <Honors />
         </div>
 
       </div>
@@ -44,7 +55,7 @@ function Rez() {
 function Header(props) {
   return (
     <header className="PortfolioHeader">
-      <h5>Matthew X. Curinga</h5>
+      <h5>Eleni N. Zamagias</h5>
       <Bio />
     </header>
   );

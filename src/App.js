@@ -16,9 +16,10 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import Rez from "./PrettyRez.jsx"
 // import Rez from "./BasicRez.jsx"
 
+
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-success bg-opacity-50 d-flex justify-content-center">
       <Rez />
     </div>
   );

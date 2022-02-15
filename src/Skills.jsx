@@ -6,7 +6,8 @@ function Skills(props) {
   let skills = skillData.map(Skill);
   return (
     <section className="Skills semiTrans p-3 rounded mb-2">
-      <h5 className="d-block d-md-none">Skills</h5>
+    <h4 className="fs-5 d-flex border-bottom border-dark border-3 justify-content-center">Skills</h4>
+    <h5 className="d-block d-md-none">Skills</h5>
       {skills}
     </section>
   );
@@ -17,9 +18,9 @@ function Skill(s, i) {
   let pct = s.score / maxSkill * 100 + "%";
   return (
     <div key={i} className="Skill d-flex justify-content-end">
-      <div className="font-weight-bold text-primary pe-2">{s.skill}</div>
+      <div className="font-weight-bold text-dark pe-2">{s.skill}</div>
       <div className="progress w-50">
-        <div className="progress-bar"
+        <div className="progress-bar bg-success progress-bar-striped progress-bar-animated"
           style={{ width: pct }}
           role="progressbar"
           aria-valuenow={s.score}

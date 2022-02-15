@@ -5,8 +5,8 @@ function Work(props) {
   const jobs = jobData.map(Job);
 
   return (
-    <section className="mt-3">
-      <h5>Experience</h5>
+    <section className="mt-3 p-1">
+      <h5>PROFESSIONAL EXPERIENCE</h5>
       {jobs}
     </section>
   );
